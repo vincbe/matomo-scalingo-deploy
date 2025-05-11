@@ -14,7 +14,7 @@ It was inspired by the PaaS buildpack [1024 pix matomo-buildpack](https://github
 
 As a pre-requesites, you must be connected to a valid (with a valid payment method) Scalingo account.
 
-[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/betagouv/matomo-scalingo-deploy)
+[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/vincbe/matomo-scalingo-deploy)
 
 Then follow the steps below:
 
